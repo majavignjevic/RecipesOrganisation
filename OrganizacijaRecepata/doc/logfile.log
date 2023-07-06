@@ -1,0 +1,116 @@
+23:23:41.396 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+23:34:15.777 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+23:34:22.817 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie Regular test was deleted.
+23:34:22.855 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie Regular test was deleted by user: admin
+23:34:29.937 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie Test to insert was deleted.
+23:34:29.951 [Thread-5] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie Test to insert was deleted by user: admin
+23:34:34.650 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie healthy test was deleted.
+23:34:34.672 [Thread-6] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie healthy test was deleted by user: admin
+23:37:53.867 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+23:38:11.828 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test was inserted.
+23:38:11.852 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Regular recepie test was inserted by user: admin
+23:38:19.375 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test was deleted.
+23:38:19.388 [Thread-5] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie test was deleted by user: admin
+00:00:48.420 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:08:15.712 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - LoginController: User admin has not successfully logged in
+00:08:15.725 [JavaFX Application Thread] ERROR c.p.o.E.UncorrectLoginException - User admin has uncorrecty logged in
+00:08:20.020 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:14:22.023 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:19:41.350 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - LoginController: User admin has not successfully logged in
+00:19:41.363 [JavaFX Application Thread] ERROR c.p.o.E.UncorrectLoginException - User admin has uncorrecty logged in
+00:19:48.246 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:21:12.360 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - LoginController: User admin has not successfully logged in
+00:21:12.372 [JavaFX Application Thread] ERROR c.p.o.E.UncorrectLoginException - User admin has uncorrecty logged in
+00:21:19.982 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:37:47.710 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:41:12.603 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:42:33.551 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:44:15.390 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+00:53:20.782 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+01:14:38.674 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+07:23:31.477 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - String: Can't connect to database, message: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-214]
+07:25:14.950 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - String: Can't connect to database, message: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-214]
+07:26:35.116 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+07:27:41.826 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Person Adminwas updated
+07:27:41.858 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Person Admin was updated by user: admin
+07:30:31.519 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie Test regular was inserted.
+07:30:31.534 [Thread-5] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Regular recepie Test regular was inserted by user: admin
+07:32:32.261 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie Healthy was inserted
+07:32:32.262 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - InsertNewHealthyRecepieController: New recipe inserted: Healthy
+07:32:32.273 [Thread-6] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Healthy recepie Healthy was inserted by user: admin
+07:33:31.913 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie update regularwas updated.
+07:33:31.915 [Thread-7] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie update regularwith old data: name: update regular, category: LUNCH, main ingredient: Almonds, text: test was updated  to update regular, category: LUNCH, main ingredient: Almonds, text: test by user: admin
+07:34:05.424 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie update regular was deleted.
+07:34:05.441 [Thread-9] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie update regular was deleted by user: admin
+07:34:19.710 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie Healthy was deleted.
+07:34:19.723 [Thread-11] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie Healthy was deleted by user: admin
+07:34:50.875 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+07:35:09.901 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Person Yariwas updated
+07:35:09.908 [Thread-23] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Person Yari was updated by user: Yari
+07:38:11.247 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+07:40:10.105 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+07:41:16.070 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+07:41:36.351 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Person Yariwas updated
+07:41:36.377 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Person Yari was updated by user: Yari
+08:07:04.886 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+08:08:50.138 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+08:09:07.747 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+08:10:30.552 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+08:12:42.127 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+08:13:52.027 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+08:22:11.050 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+08:24:39.788 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:30:51.331 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:31:45.833 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+09:43:39.734 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:43:56.187 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie tetst was inserted.
+09:43:56.223 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Regular recepie tetst was inserted by user: admin
+09:44:09.906 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie testwas updated.
+09:44:09.938 [Thread-5] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie testwith old data: name: test, category: DINNER, main ingredient: Avocados, text: dsffddsf was updated  to test, category: DINNER, main ingredient: Avocados, text: dsffddsf by user: admin
+09:48:53.108 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:52:03.637 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:52:31.951 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test novi was inserted.
+09:52:31.997 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Regular recepie test novi was inserted by user: admin
+09:54:52.285 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:56:40.561 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:57:48.416 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:59:29.766 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+09:59:47.708 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test healthy was inserted
+09:59:47.718 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - InsertNewHealthyRecepieController: New recipe inserted: test healthy
+09:59:47.745 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Healthy recepie test healthy was inserted by user: admin
+09:59:59.881 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test healthy was inserted
+09:59:59.881 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - InsertNewHealthyRecepieController: New recipe inserted: test healthy
+09:59:59.908 [Thread-5] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Healthy recepie test healthy was inserted by user: admin
+10:02:56.170 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:07:31.286 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:08:13.722 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:08:21.868 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test novi was deleted.
+10:08:21.916 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie test novi was deleted by user: admin
+10:08:27.756 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test was deleted.
+10:08:27.771 [Thread-6] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie test was deleted by user: admin
+10:09:00.736 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie Test healthy was inserted
+10:09:00.737 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - InsertNewHealthyRecepieController: New recipe inserted: Test healthy
+10:09:00.756 [Thread-8] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Healthy recepie Test healthy was inserted by user: admin
+10:10:23.918 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+10:11:46.156 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+10:14:05.910 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:16:15.885 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:18:13.781 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:18:21.528 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - InsertNewHealthyRecepieController: Calories are empty
+10:21:00.109 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:29:29.295 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+10:29:40.403 [JavaFX Application Thread] ERROR c.p.o.entiteti.LoggerPrinter - InsertNewHealthyRecepieController: Calories are empty
+10:46:42.945 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+10:47:10.535 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Person Yariwas updated
+10:47:10.562 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Person Yari was updated by user: null
+10:48:33.307 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test new was inserted.
+10:48:33.321 [Thread-5] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Regular recepie test new was inserted by user: Yari
+10:48:49.979 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test updatewas updated.
+10:48:49.998 [Thread-6] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie test updatewith old data: name: test update, category: DINNER, main ingredient: Apples, text: vsvh was updated  to test update, category: DINNER, main ingredient: Apples, text: vsvh by user: Yari
+10:49:06.052 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Recepie test update was deleted.
+10:49:06.073 [Thread-8] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Recepie test update was deleted by user: Yari
+10:49:26.484 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
+14:33:35.110 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User Yari has successfully logged in
+14:34:01.053 [JavaFX Application Thread] INFO  c.p.o.Base.Database - Person Yariwas updated
+14:34:01.095 [Thread-4] INFO  c.p.o.Threads.WriteAChangeThread - A change has been made: Person Yari was updated by user: null
+14:35:17.722 [JavaFX Application Thread] INFO  c.p.o.entiteti.LoggerPrinter - LoginController: User admin has successfully logged in
