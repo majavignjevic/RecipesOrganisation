@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="0.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.projekt.organizacijarecepata.Controller.NavigationController">
+   <children>
+       <MenuBar layoutY="1.0" prefHeight="26.0" prefWidth="900.0" style="-fx-background-color: DFD4CE;">
+           <menus>
+               <Menu mnemonicParsing="false" text="Profile">
+                   <items>
+                       <MenuItem mnemonicParsing="false" onAction="#profile" text="My profile" />
+                       <MenuItem mnemonicParsing="false" onAction="#updateMyProfile" text="Update my profile" />
+                       <MenuItem mnemonicParsing="false" onAction="#logout" text="Logout" />
+                   </items>
+               </Menu>
+               <Menu mnemonicParsing="false" text="Recepies">
+                   <items>
+                       <MenuItem mnemonicParsing="false" onAction="#viewAllRecepies" text="View all recepies" />
+                   </items>
+               </Menu>
+               <Menu mnemonicParsing="false" text="Moji recepti">
+                   <items>
+                       <MenuItem mnemonicParsing="false" onAction="#viewMyRecepies" text="View my recepies" />
+                       <MenuItem mnemonicParsing="false" onAction="#insertNewRecepies" text="Add a recepie" />
+                       <MenuItem mnemonicParsing="false" onAction="#deleteMyRecepies" text="Delete my recepie" />
+                       <MenuItem mnemonicParsing="false" onAction="#insertNewHealthyRecepie" text="Add a healthy recepie" />
+                       <MenuItem mnemonicParsing="false" onAction="#updateMyRecepies" text="Update my recepies" />
+                   </items>
+               </Menu>
+           </menus>
+       </MenuBar>
+   </children>
+</AnchorPane>
